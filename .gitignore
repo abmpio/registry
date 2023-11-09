@@ -1,0 +1,9 @@
+plugin/**/*.upack
+plugin/**/*.so
+plugin/buildscripts
+
+*.patch
+
+tags
+TAGS
+
