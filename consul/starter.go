@@ -10,8 +10,8 @@ import (
 	"github.com/abmpio/abmp/pkg/log"
 	"github.com/abmpio/abmp/pkg/utils/str"
 	"github.com/abmpio/app"
+	"github.com/abmpio/app/cli"
 	"github.com/abmpio/app/host"
-	"github.com/abmpio/app/web"
 	"github.com/abmpio/configurationx"
 )
 
@@ -20,11 +20,10 @@ var (
 )
 
 func init() {
-	web.ConfigureService(serviceConfigurator)
-	// app.RegisterOneStartupAction(registRegistryAction)
+	cli.ConfigureService(serviceConfigurator)
 }
 
-func serviceConfigurator(wa web.WebApplication) {
+func serviceConfigurator(cliApp cli.CliApplication) {
 	if app.HostApplication.SystemConfig().App.IsRunInCli {
 		return
 	}
