@@ -1,8 +1,8 @@
 github.com/DataDog/datadog-go v3.2.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
 github.com/abmpio/abmp v0.0.0-20240327133337-07f182a4ec7d h1:oGI/UY7YXQ3v7OjUN4n7eCJpJbmOknPo43yXbRWXq9g=
 github.com/abmpio/abmp v0.0.0-20240327133337-07f182a4ec7d/go.mod h1:bf/OopBYU2+AgOqiIky+xLh8ZzAk14PZg2rjaIRwjKY=
-github.com/abmpio/app v0.0.0-20240520093814-c15230c5bf83 h1:a4PV/vydpfgKl5xzo89hy2/F5m83J1PSYRXWjrBUzy8=
-github.com/abmpio/app v0.0.0-20240520093814-c15230c5bf83/go.mod h1:PNyPZdHRaY5kPCS3ZxGOk1+bQj/5BWeDE9t6aI0Oxqs=
+github.com/abmpio/app v0.0.0-20240520130037-6192508e1d2a h1:QqSP1qejrFk5zEpUV4qDwhBkY1WRdNKRpD6RxkHo544=
+github.com/abmpio/app v0.0.0-20240520130037-6192508e1d2a/go.mod h1:PNyPZdHRaY5kPCS3ZxGOk1+bQj/5BWeDE9t6aI0Oxqs=
 github.com/abmpio/configurationx v0.0.0-20240520083200-bcc6a8bb57fa h1:a+PVM0zKoSCgCoPb2VBsmh8s1qgis6BRUZyYUNgrClw=
 github.com/abmpio/configurationx v0.0.0-20240520083200-bcc6a8bb57fa/go.mod h1:+dKpgI9DK0dmz83PFE2sKDIbflkKS8o8dQkgnCX3orU=
 github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=

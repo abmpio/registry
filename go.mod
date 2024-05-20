@@ -6,7 +6,7 @@ toolchain go1.22.2
 
 require (
 	github.com/abmpio/abmp v0.0.0-20240327133337-07f182a4ec7d
-	github.com/abmpio/app v0.0.0-20240520093814-c15230c5bf83
+	github.com/abmpio/app v0.0.0-20240520130037-6192508e1d2a
 	github.com/abmpio/configurationx v0.0.0-20240520083200-bcc6a8bb57fa
 	github.com/hashicorp/consul/api v1.25.1
 	go.uber.org/zap v1.27.0
